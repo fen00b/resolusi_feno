@@ -1,3 +1,5 @@
 Halo Nama saya Feno Rega Bagus Pramudya!
 Saya ingin konsisten mempelajari bahasa pemrograman python
 Saat ini saya mengikuti tutorial GitHub dari kanal Youtube Web Programming Unpas
+
+Saya ingin menjadi python developer, saya ingin mendalami framework Flask!
