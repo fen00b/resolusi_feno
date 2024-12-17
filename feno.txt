@@ -3,4 +3,4 @@ Saya ingin konsisten mempelajari bahasa pemrograman python
 Saat ini saya mengikuti tutorial GitHub dari kanal Youtube Web Programming Unpas
 Test uji
 Saya ingin menjadi python developer, saya ingin mendalami framework Flask!
-Ujimantap
+Ujimantap -fitur 2 makan gule campur sate
